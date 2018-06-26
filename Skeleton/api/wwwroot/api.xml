@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Web.Api</name>
+    </assembly>
+    <members>
+        <member name="M:Web.Api.Controllers.WeatherPredictorController.GetForecast">
+            <summary>
+            Validates that the authenticated app has access to this Api
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
